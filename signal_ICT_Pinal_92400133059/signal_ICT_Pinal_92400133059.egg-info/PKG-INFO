@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: signal_ICT_Pinal_92400133059
+Version: 0.1
+Summary: Signal generation and operations package for ICT assignment
+Author: Pinal Gadhiya
+Classifier: Programming Language :: Python :: 3
+License-File: LICENSE.md
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Dynamic: author
+Dynamic: classifier
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary
